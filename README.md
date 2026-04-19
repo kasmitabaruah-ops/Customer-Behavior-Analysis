@@ -60,7 +60,3 @@ Results & Insights
 Identified key trends and performance drivers
 Highlighted anomalies and potential risks
 Provided data-driven recommendations for decision-making
-
-
-Conta
-(Add your name, LinkedIn, or email here)
